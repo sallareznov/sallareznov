@@ -1,4 +1,9 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salladiagne/)](https://www.linkedin.com/in/salladiagne/)
+👤 About me
+
+- 📝 [CV](https://sallareznov.github.io/cv/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salladiagne/)](https://www.linkedin.com/in/salladiagne/)
+
+⚡️ Technologies
 
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=scala)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
